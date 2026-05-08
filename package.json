@@ -1,0 +1,14 @@
+{
+  "name": "pz-gof",
+  "version": "1.0.0",
+  "description": "Реалізація GOF патернів на TypeScript",
+  "scripts": {
+    "start": "ts-node examples/run-all.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.0"
+  }
+}
